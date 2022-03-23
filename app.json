@@ -1,7 +1,6 @@
 {
-  "name": "PHP Y MYSQL en HEROKU por Osiann",
-  "description": "Template PHP Y MYSQL en HEROKU por Osiann",
-  "addons": [
-       "cleardb:ignite"
-   ]
+  "name": "Start on Heroku: PHP",
+  "description": "A barebones PHP app that makes use of the Silex web framework",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
 }
